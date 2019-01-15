@@ -1,0 +1,8 @@
+- Nguoi choi phai tra loi 15 cau hoi voi cap do tu de den kho . Moi cau hoi co mot muc tien thuong , tang dan theo thu tu .
+- Co 3 moc quan trong la cau so 5 , cau so 10 , cau so 15 . 
+- Nguoi choi co quyen choi tiep hoac dung cuoc choi .
+- Co 4 quyen tro giup : 
+  + 50:50 : may tinh se loai bo 2 phuong an sai
+  + Goi dien thoai cho nguoi than : nguoi choi lien lac den mot trong cac so dien thoai da duoc dang ki trong thoi gian 30s .
+  + Xin y kien khan gia truong quay
+  + Hoi to tu van truong quay . =

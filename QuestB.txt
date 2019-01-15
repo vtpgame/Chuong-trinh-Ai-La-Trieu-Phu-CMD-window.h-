@@ -1,0 +1,11 @@
+Dau la ten mot loai mu?/Luoi hai/Luoi ran/Luoi le/Luoi trai/D/
+/Trong cac cay cau sau, cau nao la cau xoay?/Thanh Tri/Thi Nai/Song Han/Can Tho/C/
+/Dai Ngu la quoc hieu cua trieu dai nao?/Trieu Ngo/Trieu Ho/Cac chua Nguyen/Tay Son/B/
+/Song Ben Hai va Thach Han nam o tinh nao?/Quang Binh/Quang Ninh/Quang Tri/Quang Ngai/C/
+/An Duong Vuong dat quoc hieu nuoc ta la gi?/Van Lang/Au Lac/Van Xuan/Dai Viet/B/
+/Thinh duoc lam tu gi?/Gao/Nep/Thit/Cu cai/A/
+/Dau la loai chao khac voi chao con lai?/Chao ga/Chao vit/Chao heo/Chao thit/C/
+/Ai la nguoi sang tao ra bong den?/Newton/Edison/Mozart/Einstein/B/
+/Thien tai vat li la ai?/Newton/Edion/Mozart/Einstein/D/
+/Dia danh nao gan lien voi hinh anh song Huong/Hue/Da Nang/Nha Trang/Ha Noi/A/
+
